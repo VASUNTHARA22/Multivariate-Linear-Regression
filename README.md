@@ -1,24 +1,23 @@
-![Screenshot 2025-05-02 133101](https://github.com/user-attachments/assets/a06f8051-45a0-4279-a0bd-0bbd3b03630e)# Implementation of Multivariate Linear Regression
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step1
-<br>
+###Step1
+Import panda as pd
 
-### Step2
-<br>
+###Step2
+Import linear model from sk learn
 
-### Step3
-<br>
+###Step3
+Read the csv file
 
-### Step4
-<br>
+###Step4
+Find the multivariate regression
 
-### Step5
-<br>
+###Step5
+Display the output
 
 ## Program:
 ```
