@@ -46,7 +46,6 @@ print("predicted co2 for the correspin weight and vol, ",predictedCO2)
 
 
 
-### Insert your output
 
 <br>
 
