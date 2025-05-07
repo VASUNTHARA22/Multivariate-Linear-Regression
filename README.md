@@ -1,4 +1,4 @@
-Implemenation of  multivariate linear regression
+**Implemenation of  multivariate linear regression**
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
